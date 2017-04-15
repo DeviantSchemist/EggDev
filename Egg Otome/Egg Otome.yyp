@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "a2b085ff-fe5b-4a53-8382-0906d4751558",
+            "Value": {
+                "id": "d4fca70a-f8e1-4b9d-8ddd-249db3d9ce99",
+                "resourcePath": "sprites\\sprite_placementTextBox\\sprite_placementTextBox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a2da0298-757c-482a-8a9e-0e7858fe4524",
             "Value": {
                 "id": "5e21ea80-d814-46eb-ba5a-a48ffcdce089",
