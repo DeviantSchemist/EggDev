@@ -1,0 +1,91 @@
+----------------------------What makes up an Otome game-----------------------------
+> Main Menu
+	- Start 
+	- Load Game 
+	- Setting
+		-> Music: on/off
+		-> Brightness: (Scale bar)
+		-> Pronouns?
+			->> He 
+			->> She
+			->> It  
+	- About
+	- Gallery (Unlockable?)
+	- Quit
+		-> Ask the user if they want to quit game
+--------------------------------------------------------------------------------------	
+> Pause Menu (When the user pauses on actual game)
+	- Return to game menu
+	- Save game
+	- Load 
+	- Text History 
+		-> Save game from current point 
+		-> 20 save slots 
+	- Option (In-game)
+		-> Music (Volume Gauge)
+		-> Brightness (Gauge)
+		-> SFX On/Off
+		-> Text Speed (Slow/Mid/Fast)
+		-> Back 
+	- Load gane from another save point 
+--------------------------------------------------------------------------------------	
+> Game Interaction Menu 
+	- *Right mouse click* / *Press space bar* --> Scroll through text
+	- *Default button* --> Removes textbox & any form of text to display full picture
+						   of background and character. Press spacebar, left mouse 
+						   click, or default button to return things back to normal
+	- [Quick Save] --> If current gameplay is in a save file, user is given the option 
+					   to quick save their file without going through save menu 
+	- [Pause] --> Puts the user in a different room with a darkened version of the 
+				  current background with pause menu UI
+	- 
+	
+--------------------------------------------------------------------------------------
+> Game Features
+	- Character Objects 
+		-> Animations? (Future Implementations)
+			->> Eyes blinking idle animations 
+		-> Different expressions
+	- Point System
+		-> Ch. 1 - 4
+			->> No points will be loss
+			->> The highest point you have with an egg by the end of Ch. 4 
+				will put the user in their route 
+		-> Ch. 5 - ?
+			->> Point system will reset for every egg 
+			->> Only the egg you are dating will be able to gain or loose points 
+	- Scenes 
+	- Text box 
+	- Choice menu
+	- Different story pathways (Based on the point system)
+		-> Who the protagonist will be dating will be based on their current points
+	- (Future Implementations) - Allow the user to import their picture in the game 
+								 and possible display their face when displaying their 
+								 dialouge 
+		
+--------------------------------------------------------------------------------------		
+		
+> Game controls
+	- Use mouse pointer to scroll through menu
+	- Left click a game menu to select option 
+	- Use spacebar to select option from menu
+	- Use esc key to game menu
+	- Use right click to open game menu
+--------------------------------------------------------------------------------------
+		
+		
+Self-Questions:
+> How would I implement digitally drawn pictures? (SOLVED: Import picture when creating sprites)
+> How would I start a dialouge/scene sequence?
+> How would a save system work?
+> How would I load up a save file?
+> How would I load up scenes and dialouge?
+
+
+
+
+
+
+
+		
+	
