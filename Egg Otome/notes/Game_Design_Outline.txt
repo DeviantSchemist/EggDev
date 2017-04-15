@@ -80,7 +80,7 @@ Self-Questions:
 > How would a save system work?
 > How would I load up a save file?
 > How would I load up scenes and dialouge?
-
+> Figure out github...
 
 
 

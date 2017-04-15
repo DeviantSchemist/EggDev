@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "34831c86-f5ee-4a2a-8a73-17de31ad6599",
+            "Value": {
+                "id": "b3b9938e-84d2-4d8b-b2d6-7f3b0bd3e288",
+                "resourcePath": "sprites\\sprite_egg_Icon\\sprite_egg_Icon.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3903854b-197a-4b1e-8f62-92826a88c170",
             "Value": {
                 "id": "0d1df9d8-0591-4d71-9f08-578d8e7c1eea",
@@ -212,6 +220,14 @@
                 "id": "c78240db-0972-4138-a928-682203c0772d",
                 "resourcePath": "views\\d807115a-998e-4caa-a4fc-2a01b0549c82.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dc9e12a8-b891-477f-a87c-0214032232ea",
+            "Value": {
+                "id": "3842f9d5-7f95-49bc-8003-411dd1dda600",
+                "resourcePath": "sprites\\sprite_button\\sprite_button.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
