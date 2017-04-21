@@ -1,6 +1,6 @@
 /// @description Creates starting menu
 menu[0] = "Start";
-menu[1] = "Load Game";
+menu[1] = "Load";
 menu[2] = "Settings";
 menu[3] = "About";
 menu[4] = "Gallery";
