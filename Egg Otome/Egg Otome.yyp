@@ -391,6 +391,14 @@
             }
         },
         {
+            "Key": "f1c214fb-34aa-4c13-8753-46dbdbc91fa7",
+            "Value": {
+                "id": "220689ad-2822-43d1-9447-54eb2713cef0",
+                "resourcePath": "objects\\Text_Object\\Text_Object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f2272d67-8fb8-4a0b-a89e-d6d24c020918",
             "Value": {
                 "id": "0565eb56-f959-4f98-8f55-d302ab2f47b1",
