@@ -5,13 +5,13 @@
     "name": "Text_Object",
     "eventList": [
         {
-            "id": "1aae61a7-ce24-438b-a13a-fe4eab0341f4",
+            "id": "e52337f1-7f8f-429b-9e8d-e1b2b1bcbb55",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 32,
-            "eventtype": 9,
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "f1c214fb-34aa-4c13-8753-46dbdbc91fa7"
         }
     ],
