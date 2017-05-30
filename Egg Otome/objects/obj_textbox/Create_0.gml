@@ -1,0 +1,8 @@
+/// @description Insert description here
+// You can write your code in this editor
+text = "Bacon ipsum dolor amet jowl chicken biltong t-bone spare ribs pork picanha. Chicken alcatra t-bone pork belly, landjaeger ham ribeye turkey sausage cupim spare ribs salami andouille. Ham frankfurter ground round, corned beef rump alcatra meatball cow ham hock pork loin bacon pig hamburger strip steak. Bacon corned beef drumstick, filet mignon biltong strip steak pancetta landjaeger pork belly."
+		+ "Ground round corned beef andouille strip steak prosciutto ham hock chicken short loin pork chop bacon. Jowl picanha ball tip, pastrami strip steak burgdoggen pork chop. Tenderloin flank frankfurter jowl, pancetta boudin chuck meatloaf pastrami pork loin fatback strip steak t-bone prosciutto. Pork chop picanha pancetta leberkas doner kevin, andouille beef corned beef meatball cow. Pig capicola ham, chicken beef shoulder ham hock pork chop venison tri-tip ball tip turkey shank leberkas."
+		+ "Alcatra doner ball tip, turducken drumstick fatback corned beef t-bone short ribs salami tail tri-tip shankle ribeye turkey. Pastrami shankle salami swine. Sausage shoulder alcatra turducken, t-bone beef drumstick bacon pastrami tenderloin ground round kielbasa beef ribs hamburger. Boudin tenderloin biltong hamburger pig. Tail beef beef ribs jerky doner kevin spare ribs t-bone landjaeger.";
+
+boxWidth = sprite_get_width(sprite_placementTextBox);
+stringHeight = string_height(text);
