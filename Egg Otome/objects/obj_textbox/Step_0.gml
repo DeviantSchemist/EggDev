@@ -3,3 +3,7 @@
 if (keyboard_check_pressed(vk_space) && page < array_length_1d(text)-1) {
 	page++;
 }
+
+if (keyboard_check_pressed(vk_backspace) && page > 0) {
+	page--;
+}
