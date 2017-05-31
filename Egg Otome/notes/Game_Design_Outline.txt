@@ -9,7 +9,7 @@
 			->> He 
 			->> She
 			->> It  
-	- About
+	- Credits
 	- Gallery (Unlockable?)
 	- Quit
 		-> Ask the user if they want to quit game
