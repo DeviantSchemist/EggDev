@@ -9,3 +9,9 @@ text[1] = "Sit there wishing I had a real relationship with someone. Wish I coul
 		+ "Yay.... at least I basically don't feel anything for her anymore? I mean, yes I see a picture of her and think \"Wouldn't that have been nice.\" I don't sit here thinking about her all the time wanting to be with her, though. There's nobody else who I have a real interest in where there's a nonzero probability of it ever working.";
 boxWidth = sprite_get_width(sprite_placementTextBox);
 stringHeight = string_height(text[page]);
+
+
+alpha = 0;
+print = "";
+time = 0;
+speed = 5;
