@@ -94,8 +94,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_3D51C825",
-                    "x": 128,
-                    "y": 256,
+                    "x": 352,
+                    "y": 672,
                     "IsDnD": false,
                     "colour": {
                         "Value": 4294967295

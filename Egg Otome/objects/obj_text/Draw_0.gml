@@ -23,7 +23,7 @@ if (alpha < 1) alpha += speed/10; else alpha = 1;
 
 draw_set_halign(fa_left);  //might not need this
 draw_set_valign(fa_top);   //might not need this either
-draw_text_ext(obj_textbox.x + 50, obj_textbox.y+50, print, stringHeight, boxWidth);
+draw_text_ext(obj_textbox.x + 50, obj_textbox.y+50, print, stringHeight, boxWidth-100);
 
 // used for debugging, creates a pop up window, uncomment line below to see it in action
 //show_message(print);
