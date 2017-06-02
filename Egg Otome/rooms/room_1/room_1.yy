@@ -2,14 +2,14 @@
     "id": "343ea11c-63ec-4979-9ff4-c37679c25622",
     "modelName": "GMRoom",
     "mvc": "1.0",
-    "name": "room_dialogue",
+    "name": "room_1",
     "IsDnD": false,
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "933a4f3e-a3cb-42c9-84f5-fb1cbf79d1f6"
+        
     ],
     "layers": [
         {
@@ -35,30 +35,7 @@
             "userdefined_depth": false,
             "visible": true,
             "instances": [
-                {
-                    "id": "933a4f3e-a3cb-42c9-84f5-fb1cbf79d1f6",
-                    "modelName": "GMRInstance",
-                    "mvc": "1.0",
-                    "ignore": false,
-                    "inheritItemSettings": false,
-                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
-                    "m_serialiseFrozen": false,
-                    "name": "inst_3D51C825",
-                    "x": 128,
-                    "y": 256,
-                    "IsDnD": false,
-                    "colour": {
-                        "Value": 4294967295
-                    },
-                    "creationCodeFile": "",
-                    "creationCodeType": "",
-                    "inheritCode": false,
-                    "name_with_no_file_rename": "inst_3D51C825",
-                    "objId": "dfd4b1ef-b52b-4ffb-b5a3-eb6366fb0d55",
-                    "rotation": 0,
-                    "scaleX": 1,
-                    "scaleY": 1
-                }
+                
             ]
         },
         {
@@ -86,7 +63,7 @@
             "animationFPS": 15,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4278255360
+                "Value": 4278190080
             },
             "hspeed": 0,
             "htiled": false,
@@ -114,8 +91,8 @@
         "id": "17c674cf-7149-45a1-89a7-5009821e9d96",
         "modelName": "GMRoomSettings",
         "mvc": "1.0",
-        "Height": 1080,
-        "Width": 2500,
+        "Height": 768,
+        "Width": 1024,
         "inheritRoomSettings": false,
         "persistent": false
     },
